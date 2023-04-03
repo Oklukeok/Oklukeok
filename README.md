@@ -3,19 +3,19 @@
 </div>  
   
 
-### <div align="center">I'm Lucas, Front-End developer 👨‍💻 Looking for my next challenge 🚀</div>  
+### <div align="center">I'm Lucas, Full-stack developer 👨‍💻 Looking for my next challenge 🚀</div>  
   
 
-- 🔭 I’m currently working on Microverse program  
+- 🔭 Available to hire. 
   
 
-- 🌱 I’m currently learning React  
+- 🌱 I'm a graduate of Microverse Full-stack boot camp.
   
 
-- ❓ Ask me about anything related to JavaScript  
+- ❓ Ask me about anything related to algorithms.
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces.
   
 
 <br/>  
